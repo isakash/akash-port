@@ -1,6 +1,6 @@
 A personalised website using React & Vite.
 Requirements::
-React + Vite
+React + Vite,
 HTML , CSS 
 
 
